@@ -13,7 +13,7 @@ Vite: For a fast development server and build tool.
 vercel : For deploying and hosting modern web applications
 
 [Homepages]
-https://potato-pancake-png.github.io/Counter/](https://emotion-diary-gpeymkplc-potato-pancake-pngs-projects.vercel.app/
+https://emotion-diary-gpeymkplc-potato-pancake-pngs-projects.vercel.app/
 
 [I took this course]
 한입 크기로 잘라 먹는 리액트(React.js) : 기초부터 실전까지 - 이정환
